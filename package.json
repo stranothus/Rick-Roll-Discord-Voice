@@ -1,0 +1,20 @@
+{
+  "name": "rick-roll-discord-voice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0",
+    "libsodium-wrappers": "^0.7.9"
+  }
+}
